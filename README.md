@@ -20,7 +20,7 @@
  * _Time spend with family & friends_
  * _Trekking_
  * _Listning music_
- * _ learning new languages_
+ * _learning new languages_
    
 __This is a italic sentence__
  ### I Am Learning Javafullstackdeveloper
