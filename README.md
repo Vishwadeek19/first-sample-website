@@ -21,6 +21,15 @@
  * _Trekking_
  * _Listning music_
  * _learning new languages_
+
+### Dreams
+* _Designing a dream home_
+* _To win everyone's heart_
+* _Building strong relationships with everyone_
+* _Volunteering to help underserved communities_
+* _Reaching financial stability and investing in a meaningful way_
+  
+
    
 __This is a italic sentence__
  ### I Am Learning Javafullstackdeveloper
