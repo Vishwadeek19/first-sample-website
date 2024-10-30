@@ -10,16 +10,16 @@
 
 ### Hobbies
 * _photography📷_
-* _Camping, Bike Riding at night_
+* _Camping, Bike Riding at night⛺🏍_
 * _Basketball, swimming, running_
 * _Cooking Experimenting with new recipes_
 * _Exploring new places, experiencing cultures_
 
 ### Interests
- * _Shopping_
- * _Time spend with family & friends_
- * _Trekking_
- * _Listning music_
+ * _Shopping🛍_
+ * _Time spend with family & friends👨‍👩‍👦‍👦🫂_
+ * _Trekking💹_
+ * _Listning music🎼_
  * _learning new languages_
 
 ### Dreams
