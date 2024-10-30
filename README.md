@@ -9,7 +9,7 @@
 * _I am very passionate to build my career in a very professional manner_
 
 ### Hobbies
-* _ photography_
+* _photography_
 * _Listning music_
 * _Camping, Bike Riding at night _
 * _Basketball, swimming, running_
