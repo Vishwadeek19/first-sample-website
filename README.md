@@ -11,7 +11,7 @@
 ### Hobbies
 * _photography_
 * _Listning music_
-* _Camping, Bike Riding at night _
+* _Camping, Bike Riding at night_
 * _Basketball, swimming, running_
 * _Cooking Experimenting with new recipes_
 * _Exploring new places, experiencing cultures, or learning new languages_
