@@ -32,7 +32,3 @@
 ### Favorite movies
 * _Horror_
   
-
-   
-__This is a italic sentence__
- ### I Am Learning Javafullstackdeveloper
