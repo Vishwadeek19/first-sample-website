@@ -1,3 +1,3 @@
 # First Heading 
-## Secind Heading 
+## Second Heading 
 ### Third Heading
