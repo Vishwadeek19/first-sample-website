@@ -10,11 +10,17 @@
 
 ### Hobbies
 * _photography_
-* _Listning music_
 * _Camping, Bike Riding at night_
 * _Basketball, swimming, running_
 * _Cooking Experimenting with new recipes_
-* _Exploring new places, experiencing cultures, or learning new languages_
+* _Exploring new places, experiencing cultures_
 
+### Interests
+ * _Shopping_
+ * _Time spend with family & friends_
+ * _Trekking_
+ * _Listning music_
+ * _ learning new languages_
+   
 __This is a italic sentence__
  ### I Am Learning Javafullstackdeveloper
