@@ -1,1 +1,3 @@
-# first-sample-website
+# First Heading 
+## Secind Heading 
+### Third Heading
