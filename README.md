@@ -30,6 +30,13 @@
 * _Reaching financial stability and investing in a meaningful way_
 
 ### Favorite movies
-* _Horror_
-* _Tollywood = Bommarillu_
+* _Horror = Munjya,Bhool bhulaiyaa,_
+* _Tollywood = Bommarillu,Arya2,Oopiri,Gabbar Sing_
+
+### Favorite games
+* _Volletball_
+* _Hide-and-seek-
+* _Kho-kho_
+* _Badminton_
+
   
