@@ -35,8 +35,10 @@
 
 ### Favorite games
 * _Volletball_
-* _Hide-and-seek-
+* _Hide-and-seek-_
 * _Kho-kho_
 * _Badminton_
+
+### My Photos
 
   
