@@ -51,6 +51,7 @@
 ![IMG20230120123826](https://github.com/user-attachments/assets/c4d4881c-70ff-42d0-9683-5ee6bfbaf958)  
 
 ### Contact Me
-[Linkedin!](https://www.linkedin.com/in/vishwanath-gudimella-a7b526271/)
-[Instagram!](https://www.instagram.com/_mr_vishu_boy/)
+* [Linkedin!](https://www.linkedin.com/in/vishwanath-gudimella-a7b526271/)
+* [Instagram!](https://www.instagram.com/_mr_vishu_boy/)
+* [Facebook](https://www.facebook.com/vishwanath.gudimella?mibextid=ZbWKwL)
 
